@@ -1,0 +1,94 @@
+1800 (Generic Access)
+
+     2a00 (Device Name)
+		properties read
+		value 4f72616c2d4220546f6f74686272757368 | 'Oral-B Toothbrush'
+		
+	2a01 (Appearance)
+		properties read
+		value 0000 | ''
+		
+    2a02 (Peripheral Privacy Flag)
+		properties read, write
+		value 00 | ''
+		
+	2a03 (Reconnection Address)
+		properties read, write
+		value 000000000000 | ''
+		
+    2a04 (Peripheral Preferred Connection Parameters)
+		properties read
+		value 5000a0000000e803 | 'P h'
+
+		
+		
+1801 (Generic Attribute)
+	2a05 (Service Changed)
+	properties indicate
+
+		
+		
+a0f0fff050474d5382084f72616c2d42
+
+    a0f0fff150474d5382084f72616c2d42 (Command)
+		properties read, write, notify
+		value 00 | ''
+		
+    a0f0fff250474d5382084f72616c2d42 (Data)
+		properties read, write
+		value 00000000 | ''
+		
+    a0f0fff350474d5382084f72616c2d42 (Auth)
+		properties read, write
+		value 00 | ''
+		
+    a0f0fff450474d5382084f72616c2d42 (Secret)
+		properties read, write
+		value 00000000 | ''
+
+		
+		
+a0f0ff0050474d5382084f72616c2d42
+    a0f0ff0150474d5382084f72616c2d42 (Handle ID)
+		properties read
+		value 00000000 | ''
+		
+    a0f0ff0250474d5382084f72616c2d42 (Handle Type)
+		properties read
+		value 01 | ''
+		
+    a0f0ff0350474d5382084f72616c2d42 (User Account)
+		properties read
+		value 01 | ''
+		
+    a0f0ff0450474d5382084f72616c2d42 (Device State)
+		properties read, notify
+		value 0200 | ''
+		
+    a0f0ff0550474d5382084f72616c2d42 (Battery Level)
+		properties read, notify
+		value 1f | ''
+		
+    a0f0ff0650474d5382084f72616c2d42 (Button State)
+		properties read, notify
+		value 00000000 | ''
+		
+    a0f0ff0750474d5382084f72616c2d42 (Brushing Mode)
+		properties read, notify
+		value 01 | ''
+		
+    a0f0ff0850474d5382084f72616c2d42 (Brushing Time)
+		properties read, notify
+		value 0000 | ''
+		
+    a0f0ff0950474d5382084f72616c2d42 (Quadrant)
+		properties read, notify
+		value 00 | ''
+		
+    a0f0ff0a50474d5382084f72616c2d42 (Smiley)
+		properties read, notify
+		value 00 | ''
+		
+    a0f0ff0b50474d5382084f72616c2d42 (Pressure Sensor)
+		properties read, notify
+		value 00 | ''
