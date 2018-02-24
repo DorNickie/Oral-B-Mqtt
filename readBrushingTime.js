@@ -1,7 +1,7 @@
 var noble = require('noble'); 
 
 
-var serviceUUID = 'a0f0ff0050474d5382084f72616c2d42'; //unknown Servce
+var serviceUUID = 'a0f0ff0050474d5382084f72616c2d42'; //unknown Service
 var characteristicUUID = 'a0f0ff0850474d5382084f72616c2d42'; // (Brushing Time)
 
 
