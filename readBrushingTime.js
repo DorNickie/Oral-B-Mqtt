@@ -32,7 +32,7 @@ function explore(peripheral) {
 				
 				Characteristic.on('data', function(data, isNotification) {
 					
-					detectDisconnect(peripheral);
+					//detectDisconnect(peripheral);
 					
 					console.log(data.toString('hex'));
 						
