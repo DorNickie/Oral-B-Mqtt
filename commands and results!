@@ -1,0 +1,116 @@
+#Useful Links
+https://www.bluetooth.com/specifications/assigned-numbers/generic-access-profile
+
+
+#see all device advertisements#####################################
+sudo hcitool lescan --duplicates
+
+
+
+# see advertisement details########################################
+sudo btmon #while sudo hcitool lescan --duplicates
+	
+	Motor Off:
+	
+	Example 1:
+	
+		> HCI Event: LE Meta Event (0x3e) plen 30                      
+		  LE Advertising Report (0x02)
+			Num reports: 1
+			Event type: Connectable undirected - ADV_IND (0x00)
+			Address type: Public (0x00)
+			Address: 34:15:13:E9:B8:58 (OUI 34-15-13)
+			Data length: 18
+			Flags: 0x05
+			  LE Limited Discoverable Mode
+			  BR/EDR Not Supported
+			Company: Procter & Gamble (220)
+			  Data: 0201060220000001018004
+			RSSI: -81 dBm (0xaf)
+
+			
+	Example 2:
+	
+		> HCI Event: LE Meta Event (0x3e) plen 30                      
+		  LE Advertising Report (0x02)
+			Num reports: 1
+			Event type: Connectable undirected - ADV_IND (0x00)
+			Address type: Public (0x00)
+			Address: 34:15:13:E9:B8:58 (OUI 34-15-13)
+			Data length: 18
+			Flags: 0x05
+			  LE Limited Discoverable Mode
+			  BR/EDR Not Supported
+			Company: Procter & Gamble (220)
+			  Data: 0201060220000001018004
+			RSSI: -77 dBm (0xb3)
+			
+	Motor ON:
+	
+		Example 1:
+			> HCI Event: LE Meta Event (0x3e) plen 30                      [hci0] 11.419052
+			  LE Advertising Report (0x02)
+				Num reports: 1
+				Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+				Address type: Public (0x00)
+				Address: 34:15:13:E9:B8:58 (OUI 34-15-13)
+				Data length: 18
+				Flags: 0x05
+				  LE Limited Discoverable Mode
+				  BR/EDR Not Supported
+				Company: Procter & Gamble (220)
+				  Data: 0201060200000301018a04
+				RSSI: -72 dBm (0xb8)
+		
+   
+ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+		Example 2 after 33 seconds brushing:
+    
+			> HCI Event: LE Meta Event (0x3e) plen 30                     
+			  LE Advertising Report (0x02)
+				Num reports: 1
+				Event type: Connectable undirected - ADV_IND (0x00)
+				Address type: Public (0x00)
+				Address: 34:15:13:E9:B8:58 (OUI 34-15-13)
+				Data length: 18
+				Flags: 0x05
+				  LE Limited Discoverable Mode
+				  BR/EDR Not Supported
+				Company: Procter & Gamble (220)
+				
+  		               Data: 02010602  2 000 33 0  4  02c604<-unknow value 
+changes to"c" while detect pressure--^      ^    ^----- changing while mode changing 6,5,4,3..
+									                          |
+						  this value show seconds 1,2,3,4,5,6,7,8,9,a,b,c,d,14,15,16,17,18,19....
+
+
+# Raw Advertising#################################################
+sudo hcidump -R #while sudo hcitool lescan --duplicates 
+
+Example:
+
+> 04 3E 1E 02 01 03 00 58 B8 E9 13 15 34 12 02 01 05 0E FF DC
+  00 02 01 06 03 00 00 04 01 01 8D 04 C9
+> 04 3E 2B 02 01 03 01 B6 79 FF 1F E4 34 1F 1E FF 06 00 01 09
+  20 00 01 A7 C8 6E 2B E6 4F 3E F6 24 01 BB A5 C8 64 D7 F9 24
+  08 A4 89 47 5D A3
+> 04 3E 1E 02 01 03 00 58 B8 E9 13 15 34 12 02 01 05 0E FF DC
+  00 02 01 06 03 00 00 04 01 01 8D 04 BB
+> 04 3E 2B 02 01 03 01 B6 79 FF 1F E4 34 1F 1E FF 06 00 01 09
+  20 00 01 A7 C8 6E 2B E6 4F 3E F6 24 01 BB A5 C8 64 D7 F9 24
+  08 A4 89 47 5D A5
+> 04 3E 2B 02 01 03 01 41 89 A1 97 57 0C 1F 1E FF 06 00 01 09
+  20 00 61 5F 64 12 8C 29 84 55 B0 E5 BA E7 5C FA 31 4F 1E 57
+  93 B4 C1 66 67 AC
+> 04 3E 1E 02 01 03 00 58 B8 E9 13 15 34 12 02 01 05 0E FF DC
+  00 02 01 06 03 00 00 04 01 01 8D 04 B9
+  
+
+Parser for rawcodes###########################################
+https://www.npmjs.com/package/ble-packet-parser
+
+
+
+
+
+
