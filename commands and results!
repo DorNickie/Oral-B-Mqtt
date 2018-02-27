@@ -63,8 +63,7 @@ sudo btmon #while sudo hcitool lescan --duplicates
 				RSSI: -72 dBm (0xb8)
 		
    
- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-		Example 2 after 33 seconds brushing:
+		Example 2 while 33 seconds brushing:
     
 			> HCI Event: LE Meta Event (0x3e) plen 30                     
 			  LE Advertising Report (0x02)
@@ -109,7 +108,75 @@ Example:
 Parser for rawcodes###########################################
 https://www.npmjs.com/package/ble-packet-parser
 
+Build Config from SDK##########################################
+package com.oralb.sdk;
 
+public final class BuildConfig
+{
+  public static final boolean DEBUG = false;
+  public static final String APPLICATION_ID = "com.oralb.sdk";
+  public static final String BUILD_TYPE = "release";
+  public static final String FLAVOR = "production";
+  public static final int VERSION_CODE = 4;
+  public static final String VERSION_NAME = "1.1.1";
+  public static final boolean THROW_BEARER_TOKEN_EXCEPTION = true;
+  public static final String API = "https://api.developer.oralb.com/";
+  public static final String MOBILE = "https://mobile.developer.oralb.com/";
+  public static final String LOG_TAG = "ICM:LOG";
+  public static final boolean MOVE_FROM_DISCONNECTED_TO_ADVERTISEMENT_WHEN_START_BRUSHING = true;
+  public static final boolean MOVE_FROM_GATT_TO_ADVERTISEMENT_WHEN_START_BRUSHING = true;
+  public static final boolean ORAL_B = true;
+  public static final int SESSIONS_TO_SYNC_FOR_V001 = 20;
+  public static final int SESSIONS_TO_SYNC_FOR_V002 = 30;
+  public static final boolean USE_GMT_TIMEZONE = false;
+  public static final long WAIT_FOR_ADVERTISEMENT_TIME = 3000L;
+}
+
+
+package com.oralb.sdk;
+
+public abstract interface OBTBrush$Mode
+{
+  public static final int UNKNOWN = -1;
+  public static final int OFF = 0;
+  public static final int DAILY_CLEAN = 1;
+  public static final int SENSITIVE = 2;
+  public static final int MASSAGE = 3;
+  public static final int WHITENING = 4;
+  public static final int DEEP_CLEAN = 5;
+  public static final int TONGUE_CLEANING = 6;
+  public static final int TURBO = 7;
+}
+
+
+public abstract interface OBTBrush$Sector
+{
+  public static final int SECTOR1 = 1;
+  public static final int SECTOR2 = 2;
+  public static final int SECTOR3 = 3;
+  public static final int SECTOR4 = 4;
+  public static final int SECTOR5 = 5;
+  public static final int SECTOR6 = 6;
+  public static final int SECTOR7 = 7;
+  public static final int SECTOR8 = 8;
+  public static final int NO_SECTOR = -1;
+  public static final int LAST_SECTOR = 0;
+}
+
+
+
+public abstract interface OBTBrush$State
+{
+  public static final int UNKNOWN = -1;
+  public static final int IDLE = 2;
+  public static final int BRUSHING = 3;
+  public static final int CHARGER = 4;
+}
+
+
+
+
+#####################################################################
 
 
 
