@@ -79,9 +79,9 @@ sudo btmon #while sudo hcitool lescan --duplicates
 				Company: Procter & Gamble (220)
 				
   		               Data: 02010602  2 000 33 0  4  02c604<-unknow value 
-changes to"c" while detect pressure--^      ^    ^----- changing while mode changing 6,5,4,3..
-									                          |
-						  this value show seconds 1,2,3,4,5,6,7,8,9,a,b,c,d,14,15,16,17,18,19....
+          changes to"c" while detect pressure--^      ^    ^----- changing while mode changing 6,5,4,3..
+	                                              |
+						  this value show seconds 1,2,3,4,5,6,7,8,9,a,b,c,d,f,16,17,18,19....
 
 
 # Raw Advertising#################################################
