@@ -9,7 +9,7 @@ var sMqttTopic = 'WOHNUNG/ORALB';
 
 var myBrush,sRawData;
 console.log("start toothbrush Mqtt service");
-var client  = mqtt.connect('mqtt://' + mqttServerIp);
+var client  = mqtt.connect('mqtt://' + sMqttServerIp);
 scan();
 
 function scan() {
@@ -76,7 +76,7 @@ function explore(peripheral){
 			'pressure' : bPressure
 		}
 		
-		client.publish(sMqttTopic, JSON.stringify(myBrush););
+		client.publish(sMqttTopic, JSON.stringify(myBrush));
 		
 	}
 	
