@@ -8,13 +8,14 @@ sudo hcitool lescan --duplicates
 
 
 # see advertisement details########################################
-sudo btmon #while sudo hcitool lescan --duplicates
-	
+sudo btmon  > btmon_data.txt  #while sudo hcitool lescan --duplicates
+			^----- will write results in textfile
+
 	Motor Off:
-	
+
 	Example 1:
-	
-		> HCI Event: LE Meta Event (0x3e) plen 30                      
+
+		> HCI Event: LE Meta Event (0x3e) plen 30
 		  LE Advertising Report (0x02)
 			Num reports: 1
 			Event type: Connectable undirected - ADV_IND (0x00)
@@ -28,10 +29,10 @@ sudo btmon #while sudo hcitool lescan --duplicates
 			  Data: 0201060220000001018004
 			RSSI: -81 dBm (0xaf)
 
-			
+
 	Example 2:
-	
-		> HCI Event: LE Meta Event (0x3e) plen 30                      
+
+		> HCI Event: LE Meta Event (0x3e) plen 30
 		  LE Advertising Report (0x02)
 			Num reports: 1
 			Event type: Connectable undirected - ADV_IND (0x00)
@@ -44,9 +45,9 @@ sudo btmon #while sudo hcitool lescan --duplicates
 			Company: Procter & Gamble (220)
 			  Data: 0201060220000001018004
 			RSSI: -77 dBm (0xb3)
-			
+
 	Motor ON:
-	
+
 		Example 1:
 			> HCI Event: LE Meta Event (0x3e) plen 30                      [hci0] 11.419052
 			  LE Advertising Report (0x02)
@@ -61,11 +62,11 @@ sudo btmon #while sudo hcitool lescan --duplicates
 				Company: Procter & Gamble (220)
 				  Data: 0201060200000301018a04
 				RSSI: -72 dBm (0xb8)
-		
-   
+
+
 		Example 2 while 33 seconds brushing:
-    
-			> HCI Event: LE Meta Event (0x3e) plen 30                     
+
+			> HCI Event: LE Meta Event (0x3e) plen 30
 			  LE Advertising Report (0x02)
 				Num reports: 1
 				Event type: Connectable undirected - ADV_IND (0x00)
@@ -76,15 +77,15 @@ sudo btmon #while sudo hcitool lescan --duplicates
 				  LE Limited Discoverable Mode
 				  BR/EDR Not Supported
 				Company: Procter & Gamble (220)
-				
-  		               Data: 02010602  2 000 33 0  4  02c604<-unknow value 
+
+  		               Data: 02010602  2 000 33 0  4  02c604<-unknow value
           changes to"c" while detect pressure--^      ^    ^----- changing while mode changing 6,5,4,3..
 	                                              |
-						  this value show seconds 1,2,3,4,5,6,7,8,9,a,b,c,d,f,16,17,18,19....
+						  this value show seconds 1,2,3,4,5,6,7,8,9,a,b,c,d,f,10,11,12,13....
 
 
 # Raw Advertising#################################################
-sudo hcidump -R #while sudo hcitool lescan --duplicates 
+sudo hcidump -R #while sudo hcitool lescan --duplicates
 
 Example:
 
@@ -103,7 +104,7 @@ Example:
   93 B4 C1 66 67 AC
 > 04 3E 1E 02 01 03 00 58 B8 E9 13 15 34 12 02 01 05 0E FF DC
   00 02 01 06 03 00 00 04 01 01 8D 04 B9
-  
+
 
 Parser for rawcodes###########################################
 https://www.npmjs.com/package/ble-packet-parser
@@ -177,7 +178,3 @@ public abstract interface OBTBrush$State
 
 
 #####################################################################
-
-
-
-

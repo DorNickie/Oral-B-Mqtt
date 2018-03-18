@@ -1,0 +1,2349 @@
+Bluetooth monitor ver 5.23
+= New Index: B8:27:EB:63:EE:5F (BR/EDR,UART,hci0)               [hci0] 0.833966
+* Unknown packet (code 8 len 0)                                 [hci0] 0.833972
+* Unknown packet (code 10 len 8)                                [hci0] 0.833975
+        5f ee 63 eb 27 b8 0f 00                          _.c.'...
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.593926
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.623926
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.675780
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -55 dBm (0xc9)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.698252
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -40 dBm (0xd8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.723881
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -39 dBm (0xd9)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.753252
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -50 dBm (0xce)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.783252
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.811376
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.835807
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -40 dBm (0xd8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.857653
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -39 dBm (0xd9)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.882045
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -54 dBm (0xca)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.905133
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.932006
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -44 dBm (0xd4
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 2.985174
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -40 dBm (0xd8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.006403
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.028875
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.051377
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.074566
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -40 dBm (0xd8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.128897
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.156400
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -39 dBm (0xd9)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.204500
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -40 dBm (0xd8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.233875
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.312050
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 12                       [hci0] 3.312488
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Scan response - SCAN_RSP (0x04)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 0
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.354501
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -47 dBm (0xd1)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.381376
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.405800
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.426399
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.445754
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.511400
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.533252
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.563260
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.592001
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.647675
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.670797
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.692649
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.722649
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.751398
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205020000000101
+        RSSI: -61 dBm (0xc3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.780774
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.803251
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -48 dBm (0xd0)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.831374
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -64 dBm (0xc0)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.855798
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.875774
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.953249
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -45 dBm (0xd3)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 3.977674
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.026399
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -49 dBm (0xcf)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.052024
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.073251
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.118895
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.143897
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.172022
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.197001
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.226999
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Connectable undirected - ADV_IND (0x00)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.568135
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.674617
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000000101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.782454
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.888255
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 4.995451
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.101951
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.208540
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.313821
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.526973
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000010101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.740423
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.846392
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 5.954206
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.167366
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.273244
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.486975
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.592615
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.700413
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000020101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 6.806367
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.126625
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.233237
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.339228
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.550951
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.658115
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000030101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.763369
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 7.870443
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -47 dBm (0xd1)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.084154
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -47 dBm (0xd1)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.296590
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.401994
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.509405
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -48 dBm (0xd0)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.615044
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.720853
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000040101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.826990
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 8.933374
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.040351
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.145789
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.252409
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.358212
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.572005
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.679233
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000050101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.786337
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                       [hci0] 9.892588
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.000440
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.106289
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.318238
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.425384
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -53 dBm (0xcb)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.638626
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000060101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.745084
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.851359
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 10.958715
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -41 dBm (0xd7)
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.171535
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.276291
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.384111
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.596680
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.703254
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000070101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 11.916973
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.023414
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.236364
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.344040
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.556528
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.661754
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000080101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.768504
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 12.873726
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.087001
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.193325
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.405834
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.512369
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.617589
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -49 dBm (0xcf)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.725393
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000090101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 13.832022
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000a0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.045066
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000a0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.151294
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000a0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.258157
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000a0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.472414
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000a0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.793195
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 14.899193
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.005123
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.111557
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.218155
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 40                      [hci0] 15.223926
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: CC:B1:1A:9C:D6:28 (OUI CC-B1-1A)
+        Data length: 28
+        Company: Samsung Electronics Co. Ltd. (117)
+          Data: 420401808cccb11a9cd628fa77b851a17901000000000000
+        RSSI: -78 dBm (0xb2)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.324616
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.432558
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.645314
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000b0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.857385
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -47 dBm (0xd1)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 15.963220
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.069200
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.281413
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.388703
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.494553
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.601647
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.707599
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000c0101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.815386
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 16.921787
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.028432
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.133831
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.346765
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.452598
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.665862
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000d0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.773649
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.878293
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 17.985409
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.092007
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.199079
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -61 dBm (0xc3)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.304999
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.410813
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.516996
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.623361
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000e0101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.730450
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000f0101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.836305
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000f0101
+        RSSI: -54 dBm (0xca)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 18.944169
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000f0101
+        RSSI: -60 dBm (0xc4)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 19.156569
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000f0101
+        RSSI: -59 dBm (0xc5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 19.690358
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 0102050300000f0101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 19.796296
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -44 dBm (0xd4)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 19.903667
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -68 dBm (0xbc)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.117457
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.223842
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.437006
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -58 dBm (0xc6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.543327
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000100101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.756311
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -48 dBm (0xd0)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.863644
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 20.968301
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -57 dBm (0xc7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.075301
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.181313
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -56 dBm (0xc8)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.288457
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -42 dBm (0xd6)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.606817
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -41 dBm (0xd7)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.713334
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000110101
+        RSSI: -66 dBm (0xbe)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 21.926344
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000120101
+        RSSI: -43 dBm (0xd5)
+> HCI Event: LE Meta Event (0x3e) plen 28                      [hci0] 22.034034
+      LE Advertising Report (0x02)
+        Num reports: 1
+        Event type: Non connectable undirected - ADV_NONCONN_IND (0x03)
+        Address type: Public (0x00)
+        Address: 54:4A:16:21:20:9F (Texas Instruments)
+        Data length: 16
+        Flags: 0x05
+          LE Limited Discoverable Mode
+          BR/EDR Not Supported
+        Company: Procter & Gamble (220)
+          Data: 010205030000120101
+        RSSI: -43 dBm (0xd5)
